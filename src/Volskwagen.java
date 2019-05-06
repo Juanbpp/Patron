@@ -3,6 +3,6 @@ public class Volskwagen extends Auto {
         return " Volskwagen";
     }
     public int getPrecio() {
-        return 2000;
+        return 20000;
     }
 }
